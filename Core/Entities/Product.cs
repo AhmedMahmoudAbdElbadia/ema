@@ -6,6 +6,6 @@ namespace Core.Entities
 
         public string Name { get; set; }
 
-        public string Dec {get; set;}
+        
     }
 }
